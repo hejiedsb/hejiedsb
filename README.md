@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi 👋 我是西安电子科技大学的一名本科生，爱好人工智能、操作系统、web开发等技术
 <!--
 **hejiedsb/hejiedsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
